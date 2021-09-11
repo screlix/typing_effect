@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url("anatol-lem-LkNI1rMHYJs-unsplash.jpg") no-repeat;
+    background-size: cover;
+}
+.biv{
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+    margin: 150px 0 0 130px;
+    transition:all .4s ease;
+}
